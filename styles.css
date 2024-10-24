@@ -1,0 +1,28 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    text-align: center;
+    background-color: rgba(72, 143, 143, 0.801);
+    height: 400px;
+    width: 400px;
+  }
+  h1{
+    margin-top: 40px;
+  }
+  .buttons {
+    margin-top: 80px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
